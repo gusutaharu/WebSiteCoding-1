@@ -15,7 +15,7 @@ p {
 header {
   background: #eeee;
   text-align: center;
-  padding: 32px;
+  padding: 32px 0;
 }
 
 header > img {
