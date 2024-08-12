@@ -52,5 +52,12 @@ section > img {
 }
 
 h3 {
+  margin: 16px 0 0;
   font-weight: normal;
+  font-size: 20px;
+}
+
+section > p {
+  margin-top: 16px;
+  line-height: 1.8;
 }
