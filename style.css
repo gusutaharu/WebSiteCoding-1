@@ -65,19 +65,27 @@ section > p {
 footer {
   padding: 64px 0;
   text-align: center;
-  border: 1px solid #ccc;
+  border-top: 1px solid #ccc;
 }
 
-footer > p {
+small {
   color: #aaa;
   font-size: 14px;
 }
 
-.sns-links {
+address {
   margin-top: 16px;
+}
+
+a {
+  text-decoration: none;
 }
 
 a > img {
   width: 24px;
   height: 24px;
+}
+
+a:hover {
+  opacity: 0.7;
 }
