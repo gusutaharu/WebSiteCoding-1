@@ -61,3 +61,23 @@ section > p {
   margin-top: 16px;
   line-height: 1.8;
 }
+
+footer {
+  padding: 64px 0;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+footer > p {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.sns-links {
+  margin-top: 16px;
+}
+
+a > img {
+  width: 24px;
+  height: 24px;
+}
